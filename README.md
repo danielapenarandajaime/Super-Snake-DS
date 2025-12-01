@@ -47,7 +47,7 @@ Super Snake DS es una reinterpretación moderna del clásico arcade Snake, desar
         - **Movimiento**: Eliminar el nodo de la cola (último segmento) y agregar un nuevo nodo a la cabeza (nueva posición de la cabeza) en cada tick del juego.
 
         - **Crecimiento**: Solo agregar un nuevo nodo a la cabeza sin eliminar la cola.
-
+ 
 - **Enum FoodType** (Enumeración del Tipo de Comida):
 
     - **Función**: Una enumeración es una estructura de datos que define un conjunto de constantes discretas.
