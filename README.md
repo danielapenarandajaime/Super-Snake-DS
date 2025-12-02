@@ -32,7 +32,7 @@ Super Snake DS es una reinterpretación moderna del clásico arcade Snake, desar
 
 - Contenido Dinámico: Incluye múltiples tipos de comida (FoodType) que añaden elementos estratégicos y retos al juego.
 
-- Persistencia de Datos: Utiliza el módulo os y archivos JSON para implementar un sistema de guardado y carga persistente, manteniendo el progreso del jugador, las puntuaciones altas y los skins desbloqueados.
+- Persistencia de Datos: Utiliza el módulo OS y archivos JSON para implementar un sistema de guardado y carga persistente, manteniendo el progreso del jugador, las puntuaciones altas y los skins desbloqueados.
 
 ## Papel de las estructuras de datos:
 
