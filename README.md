@@ -52,7 +52,7 @@ Super Snake DS es una reinterpretación moderna del clásico arcade Snake, desar
 
     - **Función**: Una enumeración es una estructura de datos que define un conjunto de constantes discretas.
 
-    - **Manejo de Datos**: Almacena los diferentes tipos de comida (ej: Normal, Puntos extra, Veneno) y sus valores asociados, permitiendo que el código trabaje con nombres legibles en lugar de números crudos.
+    - **Manejo de Datos**: Almacena los diferentes tipos de comida (ej: Normal, Puntos extra, Veneno) y sus valores asociados, permitiendo que el código trabaje con nombres legibles en lugar de números crudos, mejorando la experiencia de usuario.
 
  ### Ejemplo gráfico de la jugabilidad:
 ![Super Snake DS](img/jugabilidad.gif)
